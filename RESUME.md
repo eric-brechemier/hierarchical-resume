@@ -25,12 +25,16 @@
 ## GRAPHIC DESIGN
 
 ### since 2019: Graphic Design Distance Learning for Professional Certificate
-  * [by edaa][EDAA]
+  * [by edaa](https://www.edaa.fr/)
 
-[EDAA]: https://www.edaa.fr/
+### 2019–2020: Visual Communication Evening Classes
+  * [by EPSAA](https://www.epsaa.fr/formation/cours-du-soir-pour-adultes)
 
 ### 2017: Graphic Design Specialization
   * [by CalArts on Coursera](https://www.coursera.org/specializations/graphic-design)
+
+### 2011: 7 Days Gallery Project with Artist Alève Mine
+  * [Best Application Award at ITU Telecom 2011](https://www.itu.int/en/ITU-T/challenges/iptv/Pages/201110/default.aspx)
 
 ### since 2004: Graphic Design Self-Study
   * [The Elements of Design][OEI2002] book by Loan Oei & Cecile De Kegel
