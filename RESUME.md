@@ -18,20 +18,20 @@
 [WERTHEIMER1945]: https://www.springer.com/gp/book/9783030360627
 
 ### 2020: Digital Learning Manager Certificate
-  * [by LearnAssembly][TATAMI]
+  * [from LearnAssembly][TATAMI]
 
 [TATAMI]: https://www.learnassembly.com/learn-assembly-training-programs/digital-learning-the-tatami/
 
 ## GRAPHIC DESIGN
 
 ### since 2019: Graphic Design Distance Learning for Professional Certificate
-  * [by edaa](https://www.edaa.fr/)
+  * [from edaa](https://www.edaa.fr/)
 
 ### 2019–2020: Visual Communication Evening Classes
-  * [by EPSAA](https://www.epsaa.fr/formation/cours-du-soir-pour-adultes)
+  * [from EPSAA](https://www.epsaa.fr/formation/cours-du-soir-pour-adultes)
 
 ### 2017: Graphic Design Specialization
-  * [by CalArts on Coursera](https://www.coursera.org/specializations/graphic-design)
+  * [from CalArts on Coursera](https://www.coursera.org/specializations/graphic-design)
 
 ### 2011: 7 Days Gallery Project with Artist Alève Mine
   * [Best Application Award at ITU Telecom 2011](https://www.itu.int/en/ITU-T/challenges/iptv/Pages/201110/default.aspx)
@@ -78,10 +78,10 @@
   * Web: Family&Co, Legalbox
 
 ### 2004: Video Games and Interactive Media Master Degree
-  * [by CNAM-ENJMIN](https://enjmin-en.cnam.fr/)
+  * [from CNAM-ENJMIN](https://enjmin-en.cnam.fr/)
 
 ### 2003: Software Engineer Master Degree
-  * [by ENSIIE](https://www.ensiie.fr/)
+  * [from ENSIIE](https://www.ensiie.fr/)
 
 ### since 1998: Computer Science Self-Study
   * [Le langage Caml][WEIS1993] book by Pierre Weis & Xavier Leroy
