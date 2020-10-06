@@ -2,8 +2,8 @@ Eric Bréchemier <eric@coding.graphics>
 
 INSTRUCTIONAL DESIGN
 
-since 2020: Instructional Design Self-Study
 2020: Digital Learning Manager Certificate from LearnAssembly
+since 2020: Instructional Design Self-Study
 
 GRAPHIC DESIGN
 
@@ -16,13 +16,13 @@ since 2004: Graphic Design Self-Study
 COMPUTER SCIENCE
 
 2004–2020: Software Engineer
-  Education: EnsAD, Sciences Po Médialab
-  Packaging: Autajon
-  Publishing: OECD, Wolters Kluwer
-  Sport: eGull
-  Telecom: Expway, Vodafone, Voxmobili
-  Video Games: Pastagames
-  Web: Family&Co, Legalbox
+  * Education: EnsAD, Sciences Po Médialab
+  * Packaging: Autajon
+  * Publishing: OECD, Wolters Kluwer
+  * Sport: eGull
+  * Telecom: Expway, Vodafone, Voxmobili
+  * Video Games: Pastagames
+  * Web: Family&Co, Legalbox
 2004: Video Games and Interactive Media Master Degree from CNAM-ENJMIN
 2003: Software Engineer Master Degree from ENSIIE
 since 1998: Computer Science Self-Study
