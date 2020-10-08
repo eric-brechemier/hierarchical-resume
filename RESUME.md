@@ -27,7 +27,7 @@
 ### since 2019: Graphic Design Distance Learning for Professional Certificate
   * [from edaa](https://www.edaa.fr/)
 
-### 2019–2020: Visual Communication Evening Classes
+### 2019–2020: Visual Communication Evening Class
   * [from EPSAA](https://www.epsaa.fr/formation/cours-du-soir-pour-adultes)
 
 ### 2017: Graphic Design Specialization
