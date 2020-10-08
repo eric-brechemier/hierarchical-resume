@@ -4,6 +4,11 @@
 
 ## INSTRUCTIONAL DESIGN
 
+### 2020: Digital Learning Manager Certificate
+  * [from LearnAssembly][TATAMI]
+
+[TATAMI]: https://www.learnassembly.com/learn-assembly-training-programs/digital-learning-the-tatami/
+
 ### since 2020: Instructional Design Self-Study
 
   * [Instructional Design Essentials: Models of ID][PULICHINO2019] course by Joe Pulichino
@@ -16,11 +21,6 @@
 [GAGNE1979]: https://www.abebooks.com/servlet/SearchResults?isbn=0030408067
 [PULICHINO2019]: https://www.linkedin.com/learning/instructional-design-essentials-models-of-id-2/
 [WERTHEIMER1945]: https://www.springer.com/gp/book/9783030360627
-
-### 2020: Digital Learning Manager Certificate
-  * [from LearnAssembly][TATAMI]
-
-[TATAMI]: https://www.learnassembly.com/learn-assembly-training-programs/digital-learning-the-tatami/
 
 ## GRAPHIC DESIGN
 
