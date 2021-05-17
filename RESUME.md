@@ -30,7 +30,7 @@
 
 ## GRAPHIC DESIGN
 
-### 2021: Discovering and Teaching Graphic Design
+### 2021: Discovering and Teaching Graphic Design Certificate
   * [from CNAP on FUN-MOOC](https://www.fun-mooc.fr/en/cours/le-design-graphique-au-college-decouvrir-pour-transmettre/)
 
 ### 2019–2020: Visual Communication Evening Class
