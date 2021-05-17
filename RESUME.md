@@ -16,11 +16,13 @@
 
 ### since 2020: Instructional Design Self-Study
 
+  * [Instructional Design, Principles and Applications][BRIGGS1977] book by Leslie J. Briggs (Editor) et al
   * [Principles of Instructional Design, 2<sup>nd</sup> edition][GAGNE1979] book by Robert M. Gagné & Leslie J. Briggs
   * [Productive Thinking][WERTHEIMER1945] book by Max Wertheimer
   * [The Conditions of Learning, 4<sup>th</sup> edition][GAGNE1985] book by Robert M. Gagné
   * [Instructional Design Essentials: Models of ID][PULICHINO2019] course by Joe Pulichino
 
+[BRIGGS1977]: https://www.abebooks.com/servlet/SearchResults?isbn=0877780986
 [GAGNE1979]: https://www.abebooks.com/servlet/SearchResults?isbn=0030408067
 [GAGNE1985]: https://www.abebooks.com/servlet/SearchResults?isbn=0030636884
 [PULICHINO2019]: https://www.linkedin.com/learning/instructional-design-essentials-models-of-id-2/
