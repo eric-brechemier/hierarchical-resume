@@ -4,6 +4,11 @@
 
 ## INSTRUCTIONAL DESIGN
 
+### 2021: Instructional Design Certificate
+  * [from Connie Malamed Master Class][MASTERINGID]
+
+[MASTERINGID]: https://masteringid.com/
+
 ### 2020: Digital Learning Manager Certificate
   * [from LearnAssembly][TATAMI]
 
