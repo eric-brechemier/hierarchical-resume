@@ -30,6 +30,9 @@
 
 ## GRAPHIC DESIGN
 
+### 2021: Discovering and Teaching Graphic Design from CNAP on FUN-MOOC
+  * [from CNAP on FUN-MOOC](https://www.fun-mooc.fr/en/cours/le-design-graphique-au-college-decouvrir-pour-transmettre/)
+
 ### 2019–2020: Visual Communication Evening Class
   * [from EPSAA](https://www.epsaa.fr/formation/cours-du-soir-pour-adultes)
 
