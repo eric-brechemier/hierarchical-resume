@@ -16,10 +16,10 @@
 
 ### since 2020: Instructional Design Self-Study
 
-  * [Instructional Design Essentials: Models of ID][PULICHINO2019] course by Joe Pulichino
-  * [The Conditions of Learning, 4<sup>th</sup> edition][GAGNE1985] book by Robert M. Gagné
-  * [Productive Thinking][WERTHEIMER1945] book by Max Wertheimer
   * [Principles of Instructional Design, 2<sup>nd</sup> edition][GAGNE1979] book by Robert M. Gagné & Leslie J. Briggs
+  * [Productive Thinking][WERTHEIMER1945] book by Max Wertheimer
+  * [The Conditions of Learning, 4<sup>th</sup> edition][GAGNE1985] book by Robert M. Gagné
+  * [Instructional Design Essentials: Models of ID][PULICHINO2019] course by Joe Pulichino
 
 [GAGNE1979]: https://www.abebooks.com/servlet/SearchResults?isbn=0030408067
 [GAGNE1985]: https://www.abebooks.com/servlet/SearchResults?isbn=0030636884
@@ -41,20 +41,20 @@
   * [Best Application Award at ITU Telecom 2011](https://www.itu.int/en/ITU-T/challenges/iptv/Pages/201110/default.aspx)
 
 ### since 2004: Graphic Design Self-Study
-  * [The Elements of Design][OEI2002] book by Loan Oei & Cecile De Kegel
-  * [Understanding Comics][McCLOUD1993] book by Scott McCloud
-  * [Signs & Symbols][FRUTIGER1989] book by Adrian Frutiger
-  * [Transcending CSS][CLARKE2006] book by Andy Clarke
-  * [Grids][AMBROSE2012] book by Gavin Ambrose & Paul Harris
-  * [Colour, 2<sup>nd</sup> edition][FEISNER2006] book by Edith Anderson Feisner
-  * [Thinking with Type, 2<sup>nd</sup> edition][LUPTON2010] book by Ellen Lupton
-  * [Helvetica][HUSTWIT2007] documentary by Gary Hustwit
-  * [Meggs' History of Graphic Design, 5<sup>th</sup> edition][MEGGS2011] book by Philip B. Meggs & Alston W. Purvis
-  * [The Shape of Design][CHIMERO2012] book by Frank Chimero
-  * [Visualizing Data][FRY2007] book by Ben Fry
-  * [Envisioning Information][TUFTE1990] book by Edward R. Tufte
-  * [Inge Druckrey: Teaching to See][SEVERNY2012] documentary by Andrei Severny
   * [NCS Natural Colour System®](https://ncscolour.com/ncs/)
+  * [Inge Druckrey: Teaching to See][SEVERNY2012] documentary by Andrei Severny
+  * [Envisioning Information][TUFTE1990] book by Edward R. Tufte
+  * [Visualizing Data][FRY2007] book by Ben Fry
+  * [The Shape of Design][CHIMERO2012] book by Frank Chimero
+  * [Meggs' History of Graphic Design, 5<sup>th</sup> edition][MEGGS2011] book by Philip B. Meggs & Alston W. Purvis
+  * [Helvetica][HUSTWIT2007] documentary by Gary Hustwit
+  * [Thinking with Type, 2<sup>nd</sup> edition][LUPTON2010] book by Ellen Lupton
+  * [Colour, 2<sup>nd</sup> edition][FEISNER2006] book by Edith Anderson Feisner
+  * [Grids][AMBROSE2012] book by Gavin Ambrose & Paul Harris
+  * [Transcending CSS][CLARKE2006] book by Andy Clarke
+  * [Signs & Symbols][FRUTIGER1989] book by Adrian Frutiger
+  * [Understanding Comics][McCLOUD1993] book by Scott McCloud
+  * [The Elements of Design][OEI2002] book by Loan Oei & Cecile De Kegel
 
 [AMBROSE2012]: https://www.bloomsbury.com/uk/basics-design-07-grids-9782940411924/
 [CHIMERO2012]: https://shapeofdesignbook.com/
@@ -88,16 +88,16 @@
   * [from ENSIIE](https://www.ensiie.fr/)
 
 ### since 1998: Computer Science Self-Study
-  * [Le langage Caml][WEIS1993] book by Pierre Weis & Xavier Leroy
-  * [UML Distilled, 3<sup>rd</sup> edition][FOWLER2003] book by Martin Fowler
-  * [Design Patterns][GAMMA1995] book by Erich Gamma et al
-  * [XSLT Fondamental][DRIX2002] book by Philippe Drix
-  * [Refactoring][FOWLER2000] book by Martin Fowler
-  * [The Timeless Way of Building][ALEXANDER1979] book by Christopher Alexander
-  * [A Pattern Language][ALEXANDER1977] book by Christopher Alexander et al
-  * [Object Design][WIRFS-BROCK2003] book by Rebecca Wirfs-Brock & Alan McKean
-  * [JavaScript: The Good Parts][CROCKFORD2008] book by Douglas Crockford
   * [The Mythical Man-Month, anniversary edition][BROOKS1995] book by Frederick P. Brooks Jr.
+  * [JavaScript: The Good Parts][CROCKFORD2008] book by Douglas Crockford
+  * [Object Design][WIRFS-BROCK2003] book by Rebecca Wirfs-Brock & Alan McKean
+  * [A Pattern Language][ALEXANDER1977] book by Christopher Alexander et al
+  * [The Timeless Way of Building][ALEXANDER1979] book by Christopher Alexander
+  * [Refactoring][FOWLER2000] book by Martin Fowler
+  * [XSLT Fondamental][DRIX2002] book by Philippe Drix
+  * [Design Patterns][GAMMA1995] book by Erich Gamma et al
+  * [UML Distilled, 3<sup>rd</sup> edition][FOWLER2003] book by Martin Fowler
+  * [Le langage Caml][WEIS1993] book by Pierre Weis & Xavier Leroy
 
 [ALEXANDER1979]: http://www.patternlanguage.com/bookstore/timeless-way-of-building.html
 [ALEXANDER1977]: http://www.patternlanguage.com/bookstore/pattern-language.html
