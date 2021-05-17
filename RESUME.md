@@ -20,7 +20,6 @@
   * [The Conditions of Learning, 4<sup>th</sup> edition][GAGNE1985] book by Robert M. Gagné
   * [Productive Thinking][WERTHEIMER1945] book by Max Wertheimer
   * [Principles of Instructional Design, 2<sup>nd</sup> edition][GAGNE1979] book by Robert M. Gagné & Leslie J. Briggs
-  * Member of [Mastering Instructional Design](https://masteringid.com/) community mentored by Connie Malamed
 
 [GAGNE1985]: https://www.abebooks.com/servlet/SearchResults?isbn=0030636884
 [GAGNE1979]: https://www.abebooks.com/servlet/SearchResults?isbn=0030408067
