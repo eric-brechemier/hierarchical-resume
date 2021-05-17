@@ -21,8 +21,8 @@
   * [Productive Thinking][WERTHEIMER1945] book by Max Wertheimer
   * [Principles of Instructional Design, 2<sup>nd</sup> edition][GAGNE1979] book by Robert M. Gagné & Leslie J. Briggs
 
-[GAGNE1985]: https://www.abebooks.com/servlet/SearchResults?isbn=0030636884
 [GAGNE1979]: https://www.abebooks.com/servlet/SearchResults?isbn=0030408067
+[GAGNE1985]: https://www.abebooks.com/servlet/SearchResults?isbn=0030636884
 [PULICHINO2019]: https://www.linkedin.com/learning/instructional-design-essentials-models-of-id-2/
 [WERTHEIMER1945]: https://www.springer.com/gp/book/9783030360627
 
