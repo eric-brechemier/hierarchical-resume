@@ -1,6 +1,6 @@
 # Eric Bréchemier
 
-<eric@coding.graphics>
+<eric@culture.graphics>
 
 ## INSTRUCTIONAL DESIGN
 
