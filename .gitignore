@@ -1,2 +1,5 @@
 # ignore LibreOffice temporary file
 .~lock.*
+
+# ignore macOS thumbnails
+.DS_Store
