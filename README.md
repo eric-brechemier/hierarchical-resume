@@ -1,5 +1,7 @@
-# hierarchical-resume
-Hierarchical Resume
+# CV of Eric Bréchemier
+
+This resume highlights key experience and education in my three domains
+of predilection: Instructional Design, Graphic Design & Computer Science.
 
 ## English
 
