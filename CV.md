@@ -78,13 +78,13 @@
 ## INFORMATIQUE
 
 ### 2004–2020 : Ingénieur en informatique
-  * Édition : OECD, Wolters Kluwer
-  * Éducation : EnsAD, Sciences Po Médialab
-  * Impression : Autajon
-  * Jeux Vidéo : Pastagames
-  * Sport : eGull
-  * Télécom : Expway, Vodafone, Voxmobili
-  * Web : Family&Co, Legalbox
+  * *Édition :* OECD, Wolters Kluwer
+  * *Éducation :* EnsAD, Sciences Po Médialab
+  * *Impression :* Autajon
+  * *Jeux Vidéo :* Pastagames
+  * *Sport :* eGull
+  * *Télécom :* Expway, Vodafone, Voxmobili
+  * *Web :* Family&Co, Legalbox
 
 ### 2004 : Master Jeux Vidéo et Media Interactifs Numériques
   * [du CNAM-ENJMIN](https://enjmin-en.cnam.fr/)

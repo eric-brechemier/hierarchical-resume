@@ -78,13 +78,13 @@
 ## COMPUTER SCIENCE
 
 ### 2004–2020: Software Engineer
-  * Education: EnsAD, Sciences Po Médialab
-  * Packaging: Autajon
-  * Publishing: OECD, Wolters Kluwer
-  * Sport: eGull
-  * Telecom: Expway, Vodafone, Voxmobili
-  * Video Games: Pastagames
-  * Web: Family&Co, Legalbox
+  * *Education:* EnsAD, Sciences Po Médialab
+  * *Packaging:* Autajon
+  * *Publishing:* OECD, Wolters Kluwer
+  * *Sport:* eGull
+  * *Telecom:* Expway, Vodafone, Voxmobili
+  * *Video Games:* Pastagames
+  * *Web:* Family&Co, Legalbox
 
 ### 2004: Video Games and Interactive Media Master Degree
   * [from CNAM-ENJMIN](https://enjmin-en.cnam.fr/)
