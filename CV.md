@@ -5,7 +5,7 @@
 ## CONCEPTION PÉDAGOGIQUE
 
 ### 2021 : Certificat de Conception Pédagogique
-  * [de la classe de Connie Malamed][MASTERINGID]
+  * [de l'atelier de Connie Malamed][MASTERINGID]
 
 [MASTERINGID]: https://masteringid.com/
 
