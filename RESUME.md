@@ -79,7 +79,7 @@
 
 ### 2004–2020: Software Engineer
   * *Education:* EnsAD, Sciences Po Médialab
-  * *Packaging:* Autajon
+  * *Printing:* Autajon
   * *Publishing:* OECD, Wolters Kluwer
   * *Sport:* eGull
   * *Telecom:* Expway, Vodafone, Voxmobili
