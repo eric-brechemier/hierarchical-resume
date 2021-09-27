@@ -4,6 +4,11 @@
 
 ## CONCEPTION PÉDAGOGIQUE
 
+### 2021 : bénévolat de compétences
+  * [pour la plateforme Art Explora Academy][ART_EXPLORA_ACADEMY]
+
+[ART_EXPLORA_ACADEMY]: https://academy.artexplora.org
+
 ### 2021 : Certificat de Conception Pédagogique
   * [de l'atelier de Connie Malamed][MASTERINGID]
 

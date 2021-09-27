@@ -4,6 +4,11 @@
 
 ## INSTRUCTIONAL DESIGN
 
+### 2021: skills-based volunteering
+  * [for the Art Explora Academy online program][ART_EXPLORA_ACADEMY]
+
+[ART_EXPLORA_ACADEMY]: https://academy.artexplora.org
+
 ### 2021: Instructional Design Certificate
   * [from Connie Malamed Master Class][MASTERINGID]
 
