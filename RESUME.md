@@ -77,7 +77,7 @@
 
 ## COMPUTER SCIENCE
 
-### 2004–2020: Software Engineer
+### 2004–2020: Software Engineer, Technical Trainer & Project Manager
   * *Education:* EnsAD, Sciences Po Médialab
   * *Printing:* Autajon
   * *Publishing:* OECD, Wolters Kluwer

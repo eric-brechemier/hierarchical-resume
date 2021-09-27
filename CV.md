@@ -77,7 +77,7 @@
 
 ## INFORMATIQUE
 
-### 2004–2020 : Ingénieur en informatique
+### 2004–2020 : Ingénieur en informatique, formateur & chef de projet
   * *Édition :* OECD, Wolters Kluwer
   * *Éducation :* EnsAD, Sciences Po Médialab
   * *Impression :* Autajon
