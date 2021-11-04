@@ -4,10 +4,12 @@
 
 ## CONCEPTION PÉDAGOGIQUE
 
-### 2021 : bénévolat de compétences
-  * [pour la plateforme Art Explora Academy][ART_EXPLORA_ACADEMY]
+### 2021 : bénévolat de compétences pour la fondation Art Explora
+  * [médiateur culturel pour le musée du Louvre][ART_EXPLORA_X_LOUVRE]
+  * [testeur de la plateforme d'histoire de l'art Art Explora Academy][ART_EXPLORA_ACADEMY]
 
 [ART_EXPLORA_ACADEMY]: https://academy.artexplora.org
+[ART_EXPLORA_X_LOUVRE]: https://www.artexplora.org/en/become-a-volunteer
 
 ### 2021 : Certificat de Conception Pédagogique
   * [de l'atelier de Connie Malamed][MASTERINGID]
