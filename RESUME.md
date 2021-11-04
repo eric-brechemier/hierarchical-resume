@@ -5,7 +5,7 @@
 ## INSTRUCTIONAL DESIGN
 
 ### 2021: skills-based volunteering for Art Explora foundation
-  * [Art ambassador for the Louvre museum]()
+  * [Art Ambassador for the Louvre museum]()
   * [Tester of art history platform Art Explora Academy][ART_EXPLORA_ACADEMY]
 
 [ART_EXPLORA_ACADEMY]: https://academy.artexplora.org
