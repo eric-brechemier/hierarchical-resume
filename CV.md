@@ -4,12 +4,17 @@
 
 ## CONCEPTION PÉDAGOGIQUE
 
-### 2021 : bénévolat de compétences pour la fondation Art Explora
-  * [médiateur culturel pour le musée du Louvre][ART_EXPLORA_X_LOUVRE]
-  * [testeur de la plateforme d'histoire de l'art Art Explora Academy][ART_EXPLORA_ACADEMY]
+### 2022 : Atelier de conception pédagogique pour la création de [Kadenze Academy][KADENZE_ACADEMY]
+
+[KADENZE_ACADEMY]: https://www.kadenze.academy/
+
+### 2021–2022 : Ambassadeur culturel du musée du Louvre pour la [fondation Art Explora][ART_EXPLORA_X_LOUVRE]
+
+[ART_EXPLORA_X_LOUVRE]: https://www.artexplora.org/en/become-a-volunteer
+
+### 2021 : Testeur de la [plateforme d'histoire de l'art Art Explora Academy][ART_EXPLORA_ACADEMY]
 
 [ART_EXPLORA_ACADEMY]: https://academy.artexplora.org
-[ART_EXPLORA_X_LOUVRE]: https://www.artexplora.org/en/become-a-volunteer
 
 ### 2021 : Certificat de Conception Pédagogique
   * [de l'atelier de Connie Malamed][MASTERINGID]
@@ -17,7 +22,7 @@
 [MASTERINGID]: https://masteringid.com/
 
 ### 2020 : Certificat de Gestion de l'Apprentissage Numérique
-  * [de LearnAssembly][TATAMI]
+  * [de Learn Assembly][TATAMI]
 
 [TATAMI]: https://www.learnassembly.com/learn-assembly-training-programs/digital-learning-the-tatami/
 
