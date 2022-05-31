@@ -48,9 +48,6 @@
 ### 2019–2020 : cours du soir de Communication Visuelle
   * [de l'EPSAA](https://www.epsaa.fr/formation/cours-du-soir-pour-adultes)
 
-### depuis 2019 : études en arts appliqués à distance, parcours Graphiste
-  * [de l'edaa](https://www.edaa.fr/)
-
 ### 2017 : spécialisation Graphisme
   * [de CalArts sur Coursera](https://www.coursera.org/specializations/graphic-design)
 
