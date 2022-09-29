@@ -93,10 +93,10 @@
   * *Video Games:* Pastagames
   * *Web:* Family&Co, Legalbox
 
-### 2004: Video Games and Interactive Media Master Degree
+### 2004: Video Games and Interactive Media Master's Degree
   * [from CNAM-ENJMIN](https://enjmin-en.cnam.fr/)
 
-### 2003: Software Engineer Master Degree
+### 2003: Software Engineer Master's Degree
   * [from ENSIIE](https://www.ensiie.fr/)
 
 ### since 1998: Computer Science Self-Study
