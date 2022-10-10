@@ -40,6 +40,9 @@
 
 ## GRAPHIC DESIGN
 
+### 2019–2022: Graphic Design Courses
+  * [from EDAA through distance learning](https://www.edaa.fr/Formations/Graphiste-1.html)
+
 ### 2021: Discovering & Teaching Graphic Design Certificate
   * [from CNAP on FUN-MOOC](https://www.fun-mooc.fr/en/cours/le-design-graphique-au-college-decouvrir-pour-transmettre/)
 
