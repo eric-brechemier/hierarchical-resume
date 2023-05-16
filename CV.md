@@ -41,7 +41,7 @@
 ## GRAPHISME
 
 ### 2019–2022 : cours de graphisme
-  * [de l'edaa, École d'Arts Appliqués à distance](https://www.edaa.fr/Formations/Graphiste-1.html)
+  * [de l'edaa, école d'Arts Appliqués à distance](https://www.edaa.fr/Formations/Graphiste-1.html)
 
 ### 2019–2020 : cours du soir de communication visuelle
   * [de l'EPSAA](https://www.epsaa.fr/formation/cours-du-soir-pour-adultes)
