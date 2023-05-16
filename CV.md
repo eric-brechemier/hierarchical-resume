@@ -14,7 +14,7 @@
 
 [KADENZE_ACADEMY]: https://www.kadenze.academy/
 
-### 2021 : Certificat de Conception Pédagogique
+### 2021 : Certificat de conception pédagogique
   * [de l'atelier de Connie Malamed][MASTERINGID]
 
 [MASTERINGID]: https://masteringid.com/
@@ -43,10 +43,10 @@
 ### 2019–2022 : cours de graphisme
   * [de l'edaa, École d'Arts Appliqués à distance](https://www.edaa.fr/Formations/Graphiste-1.html)
 
-### 2019–2020 : cours du soir de Communication Visuelle
+### 2019–2020 : cours du soir de communication visuelle
   * [de l'EPSAA](https://www.epsaa.fr/formation/cours-du-soir-pour-adultes)
 
-### 2017 : spécialisation Graphisme
+### 2017 : spécialisation graphisme
   * [de CalArts sur Coursera](https://www.coursera.org/specializations/graphic-design)
 
 ### 2011 : projet 7 Days Gallery avec l'artiste Alève Mine
