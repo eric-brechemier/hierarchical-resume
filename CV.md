@@ -43,9 +43,6 @@
 ### 2019–2022 : cours de graphisme
   * [de l'edaa, École d'Arts Appliqués à distance](https://www.edaa.fr/Formations/Graphiste-1.html)
 
-### 2021 : cours Découvrir et transmettre le graphisme au collège
-  * [du CNAP sur FUN](https://www.fun-mooc.fr/en/cours/le-design-graphique-au-college-decouvrir-pour-transmettre/)
-
 ### 2019–2020 : cours du soir de Communication Visuelle
   * [de l'EPSAA](https://www.epsaa.fr/formation/cours-du-soir-pour-adultes)
 
