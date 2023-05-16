@@ -19,7 +19,7 @@
 
 [MASTERINGID]: https://masteringid.com/
 
-### 2020 : Certificat de Gestion de l'Apprentissage Numérique
+### 2020 : Certificat d'enseignement numérique à distance
   * [de Learn Assembly][TATAMI]
 
 [TATAMI]: https://www.learnassembly.com/learn-assembly-training-programs/digital-learning-the-tatami/
