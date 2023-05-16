@@ -2,6 +2,8 @@ Eric Bréchemier <eric@culture.graphics>
 
 CONCEPTION PÉDAGOGIQUE
 
+depuis novembre 2022 : Ingénieur pédagogique & co-responsable de formation
+  * Licence Informatique Jeu Vidéo au Cnam-Enjmin
 2022 : Atelier de conception pédagogique pour la création de Kadenze Academy
 2021–2022 : Ambassadeur culturel du musée du Louvre pour Art Explora
 2021 : Testeur de la plateforme d'histoire de l'art Art Explora Academy
@@ -28,6 +30,6 @@ INFORMATIQUE
   * Sport : eGull
   * Télécom : Expway, Vodafone, Voxmobili
   * Web : Family&Co, Legalbox
-2004 : Master Jeux Vidéo et Media Interactifs Numériques du CNAM-ENJMIN
+2004 : Master Jeux Vidéo et Media Interactifs Numériques du Cnam-Enjmin
 2003 : diplôme d'ingénieur en informatique de l'ENSIIE
 depuis 1998 : étude de l'informatique en autodidacte

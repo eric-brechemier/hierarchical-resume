@@ -4,6 +4,12 @@
 
 ## INSTRUCTIONAL DESIGN
 
+### since November 2022: Instructional Designer & Curriculum Manager
+  * [Bachelor in Computer Science for Video Games][LIJV] at [Cnam-Enjmin][]
+
+[LIJV]: https://enjmin.cnam.fr/formations/licence-informatique-jeux-video/
+[Cnam-Enjmin]: https://enjmin-en.cnam.fr/
+
 ### 2022: Instructional Design workshops for creation from [Kadenze Academy][KADENZE_ACADEMY]
 
 [KADENZE_ACADEMY]: https://www.kadenze.academy/
@@ -97,7 +103,7 @@
   * *Web:* Family&Co, Legalbox
 
 ### 2004: Video Games and Interactive Media Master's Degree
-  * [from CNAM-ENJMIN](https://enjmin-en.cnam.fr/)
+  * [from Cnam-Enjmin](https://enjmin-en.cnam.fr/)
 
 ### 2003: Software Engineering Master's Degree
   * [from ENSIIE](https://www.ensiie.fr/)

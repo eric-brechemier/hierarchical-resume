@@ -4,6 +4,12 @@
 
 ## CONCEPTION PÉDAGOGIQUE
 
+### depuis novembre 2022 : Ingénieur pédagogique & co-responsable de formation
+  * [Licence Informatique Jeu Vidéo][LIJV] au [Cnam-Enjmin][]
+
+[LIJV]: https://enjmin.cnam.fr/formations/licence-informatique-jeux-video/
+[Cnam-Enjmin]: https://enjmin.cnam.fr/
+
 ### 2022 : Atelier de conception pédagogique pour la création de [Kadenze Academy][KADENZE_ACADEMY]
 
 [KADENZE_ACADEMY]: https://www.kadenze.academy/
@@ -99,7 +105,7 @@
   * *Web :* Family&Co, Legalbox
 
 ### 2004 : Master Jeux Vidéo et Media Interactifs Numériques
-  * [du CNAM-ENJMIN](https://enjmin-en.cnam.fr/)
+  * [du Cnam-Enjmin](https://enjmin.cnam.fr/)
 
 ### 2003 : diplôme d'ingénieur en informatique
   * [de l'ENSIIE](https://www.ensiie.fr/)

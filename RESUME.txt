@@ -2,6 +2,8 @@ Eric Bréchemier <eric@culture.graphics>
 
 INSTRUCTIONAL DESIGN
 
+since November 2022: Instructional Designer & Curriculum Manager
+  * Bachelor in Computer Science for Video Games at Cnam-Enjmin
 2022: Instructional Design workshops for creation from Kadenze Academy
 2021–2022: Art Ambassador for Art Explora foundation and the Louvre museum
 2021: Tester of art history platform Art Explora Academy
@@ -28,6 +30,6 @@ COMPUTER SCIENCE
   * Telecom: Expway, Vodafone, Voxmobili
   * Video Games: Pastagames
   * Web: Family&Co, Legalbox
-2004: Video Games and Interactive Media Master's Degree from CNAM-ENJMIN
+2004: Video Games and Interactive Media Master's Degree from Cnam-Enjmin
 2003: Software Engineering Master's Degree from ENSIIE
 since 1998: Computer Science Self-Study
