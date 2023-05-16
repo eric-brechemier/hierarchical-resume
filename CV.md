@@ -14,14 +14,6 @@
 
 [KADENZE_ACADEMY]: https://www.kadenze.academy/
 
-### 2021–2022 : Ambassadeur culturel du musée du Louvre pour la [fondation Art Explora][ART_EXPLORA_X_LOUVRE]
-
-[ART_EXPLORA_X_LOUVRE]: https://www.artexplora.org/en/become-a-volunteer
-
-### 2021 : Testeur de la [plateforme d'histoire de l'art Art Explora Academy][ART_EXPLORA_ACADEMY]
-
-[ART_EXPLORA_ACADEMY]: https://academy.artexplora.org
-
 ### 2021 : Certificat de Conception Pédagogique
   * [de l'atelier de Connie Malamed][MASTERINGID]
 

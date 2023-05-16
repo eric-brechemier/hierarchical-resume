@@ -14,12 +14,6 @@
 
 [KADENZE_ACADEMY]: https://www.kadenze.academy/
 
-### 2021–2022: Art Ambassador for Art Explora foundation and the Louvre museum
-
-### 2021: Tester of art history platform [Art Explora Academy][ART_EXPLORA_ACADEMY]
-
-[ART_EXPLORA_ACADEMY]: https://academy.artexplora.org
-
 ### 2021: Instructional Design Certificate
   * [from Connie Malamed Master Class][MASTERINGID]
 
